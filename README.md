@@ -64,8 +64,6 @@ O banco contempla entidades como:
 - Itens do Pedido
 - Produtos
 - Categorias
-- Pagamentos
-- Entregadores
 - Status do Pedido
 
 Todas as tabelas foram modeladas visando representar um fluxo semelhante ao encontrado em plataformas de delivery.
